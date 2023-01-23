@@ -1,0 +1,184 @@
+body
+{
+	font-family: 'Josefin Slab', serif;
+    background: rgb(231,223,198);
+    background: linear-gradient(180deg, rgba(231,223,198,1) 0%, rgba(233,241,247,1) 100%);
+    background-attachment: fixed;
+}
+
+.cabecalho
+{
+    background: #816C61;
+    color:aliceblue;
+    margin-left: 1%;
+    border-radius: 5px;
+    padding-left: 0%;
+    padding-top: 1%;
+    padding-bottom: 0.1%;
+    height: 100%;
+    width: 2.5%;
+}
+
+#adicionarButton
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#adicionarImg
+{
+    height: 100%;
+    width: 100%;
+}
+
+#casaButton
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#homeImg
+{
+    height: 95%;
+    width: 95%;
+}
+
+
+#removerImg
+{
+    height: 18px;
+    width: 18px;
+}
+
+#removerButton
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#listarButton
+{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#listarImg
+{
+    height: 100%;
+    width: 100%;
+}
+
+#AdicionarPane
+{
+    background-color: #816C61;
+    margin:5% 35% 0% 35%;
+    padding: 35px 15px 35px 15px;
+    border-radius: 15px;
+    border-color: transparent;
+    text-align: center;
+}
+
+#removerPane
+{
+    background-color: #816C61;
+    margin:5% 35% 0% 35%;
+    padding: 35px 15px 35px 15px;
+    border-radius: 15px;
+    border-color: transparent;
+    text-align: center;
+}
+
+#Caixa1
+{
+    text-align: center;
+    border-radius: 15px;
+    border-color: transparent;
+    height: 10%;
+    width: 60%;
+}
+
+#Caixa2
+{
+    text-align: center;
+    border-radius: 15px;
+    border-color: transparent;
+    height: 10%;
+    width: 40%;
+}
+
+#Caixa3
+{
+    text-align: center;
+    border-radius: 15px;
+    border-color: transparent;
+    height: 20%;
+    width: 10%;
+    
+}
+
+.Botao1
+{
+    background-color: #EEF5DB;
+    border: transparent;
+    border-radius: 14px;
+    height: 25px;
+    width:65px;
+}
+
+.Botao2
+{
+    background-color: #EEF5DB;
+    border: transparent;
+    border-radius: 14px;
+    height: 25px;
+    width:20%;
+}
+
+.tabela
+{
+    background-color: #F9F4F5;    
+    margin-top: -5%;
+    margin-left: 30%;
+    margin-right: 40%;
+    border-radius: 15px;
+}
+
+.t1
+{
+    color:#F9F4F5;
+    background-color: #816C61; 
+    text-align: center;
+    border: 1px solid;
+    border-color: #816C61;
+}
+
+.t2
+{
+    color: #816C61;
+    background-color: #F9F4F5; 
+    border-top: none;
+    border-bottom: 1px solid;
+    white-space: nowrap;
+    height: 2%;
+}
+
+#editarButton
+{
+    background-color: transparent;
+    border-color: transparent;
+
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+.input-hidden{
+  height:0;
+  width:0;
+  visibility: hidden;
+  padding:0;
+  margin:0;
+  float:right;
+}
